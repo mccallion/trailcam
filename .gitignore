@@ -1,0 +1,11 @@
+##### Files #####
+creds.txt
+
+##### Directories #####
+__pycache__/
+.ipynb_checkpoints/
+
+##### Filetypes #####
+*.csv
+*.json
+*.pickle
