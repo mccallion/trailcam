@@ -6,6 +6,11 @@ __pycache__/
 .ipynb_checkpoints/
 
 ##### Filetypes #####
+# data
 *.csv
 *.json
 *.pickle
+# images
+*.jpg
+*.jpeg
+*.png
